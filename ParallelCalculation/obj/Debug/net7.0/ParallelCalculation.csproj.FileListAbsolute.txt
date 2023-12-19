@@ -1,0 +1,14 @@
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\bin\Debug\net7.0\ParallelCalculation.exe
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\bin\Debug\net7.0\ParallelCalculation.deps.json
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\bin\Debug\net7.0\ParallelCalculation.runtimeconfig.json
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\bin\Debug\net7.0\ParallelCalculation.dll
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\bin\Debug\net7.0\ParallelCalculation.pdb
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\obj\Debug\net7.0\ParallelCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\obj\Debug\net7.0\ParallelCalculation.AssemblyInfoInputs.cache
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\obj\Debug\net7.0\ParallelCalculation.AssemblyInfo.cs
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\obj\Debug\net7.0\ParallelCalculation.csproj.CoreCompileInputs.cache
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\obj\Debug\net7.0\ParallelCalculation.dll
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\obj\Debug\net7.0\refint\ParallelCalculation.dll
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\obj\Debug\net7.0\ParallelCalculation.pdb
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\obj\Debug\net7.0\ParallelCalculation.genruntimeconfig.cache
+C:\Users\gohar.ghazaryan\source\repos\ParallelCalculation\ParallelCalculation\obj\Debug\net7.0\ref\ParallelCalculation.dll
